@@ -29,7 +29,7 @@ class Matrix{
 	            data[i][j] = rand();
 	}
 	
-	void random(){
+	void symmetry(){
 	    for (int i = 0; i < num; ++i)
 	        for (int j = 0; j < num; ++j)
 	            data[i][j] = rand();
